@@ -22,10 +22,10 @@
    git clone https://github.com/ваш-username/название-репозитория.git
 
 2. Перейдите в папку проекта:
-
 ```bash
 cd [digital-marketing-landing](https://github.com/IgorZelenov7/digital-marketing-landing.git)
+````
 
 3.Откройте файл index.html в браузере:
-Либо дважды кликните по файлу в проводнике.
-Либо используйте Live Server в VS Code.
+- Либо дважды кликните по файлу в проводнике.
+- Либо используйте Live Server в VS Code.
