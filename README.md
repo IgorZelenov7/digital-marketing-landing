@@ -19,11 +19,11 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   https://github.com/IgorZelenov7/digital-marketing-landing.git
+   git clone https://github.com/IgorZelenov7/digital-marketing-landing.git
 
 2. Перейдите в папку проекта:
 ```bash
-cd [digital-marketing-landing](https://github.com/IgorZelenov7/digital-marketing-landing.git)
+   cd digital-marketing-landing
 ````
 
 3.Откройте файл index.html в браузере:
