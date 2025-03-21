@@ -19,7 +19,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/название-репозитория.git
+   https://github.com/IgorZelenov7/digital-marketing-landing.git
 
 2. Перейдите в папку проекта:
 ```bash
