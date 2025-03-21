@@ -26,6 +26,6 @@
    cd digital-marketing-landing
 ````
 
-3.Откройте файл index.html в браузере:
+3. Откройте файл index.html в браузере:
 - Либо дважды кликните по файлу в проводнике.
 - Либо используйте Live Server в VS Code.
